@@ -1,0 +1,8 @@
+Welcome to Battleship! You will have a 5x5 game board with 
+25 locations to fire up to 15 missiles at. There will be two ships 
+somewhere on the board (each ship 2 buttons in length) going 
+either vertically or horizontally. You may see your hits and misses 
+by selecting the corresponding check boxes. Hits will appear as 
+red text. Misses will appear as white. The goal is to hit both locations
+on both ships in 15 missiles or less.
+(note: selecting a previous hit again will result in a miss!)
